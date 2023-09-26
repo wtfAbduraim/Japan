@@ -1,0 +1,404 @@
+.container {
+    width: 1240px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 20px;
+    display: flex;
+    margin: auto;
+}
+
+.dell-ul {
+    justify-content: space-between;
+    display: flex;
+    margin-left: 810px;
+}
+
+.dell-li {
+    justify-content: space-between;
+    margin-left: 20px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.dell-a1 {
+    color: #000;
+    font-family: "Libre Franklin";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.main .container {
+    display: flex;
+    padding-top: 60px;
+}
+
+.avd-img {
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+.avd-ul {
+    text-decoration: none;
+    list-style: none;
+    margin-top: -9px;
+}
+
+.avd-p {
+    color: #999;
+    font-family: "Libre Franklin";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.avd-p1 {
+    color: #000;
+    font-family: "Tenor Sans";
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 42px;
+    text-transform: uppercase;
+    width: 429px;
+}
+
+.avd-p2 {
+    color: #666;
+    font-family: "Source Serif Pro";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 370px;
+}
+
+.avd-p3 {
+    color: #000;
+    font-family: "Libre Franklin";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding-top: 28px;
+}
+
+.well-div {
+    padding-top: 36px;
+    margin-left: 20px;
+}
+
+.well-p {
+    color: #999;
+    font-family: "Libre Franklin";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.well-p1 {
+    color: #000;
+    font-family: "Tenor Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;
+    width: 300px;
+}
+
+.well-p2 {
+    color: #000;
+    font-family: "Libre Franklin";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.fail {
+    padding-top: 89px;
+}
+
+.hr1 {
+    margin-top: 65px;
+}
+
+.fail-div {
+    width: 1200px;
+}
+
+.fail-p {
+    color: #999;
+    font-family: "Libre Franklin";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.fail-p1 {
+    color: #000;
+    font-family: "Tenor Sans";
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;
+    width: 276px;
+}
+
+.fail-p2 {
+    color: #000;
+    font-family: "Libre Franklin";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.ever {
+    list-style: none;
+    text-decoration: none;
+}
+
+.ab {
+    color: black;
+    font-family: "Libre Franklin";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-left: 510px;
+    border: 2px solid black;
+    background: #FFF;
+    padding: 10px 20px;
+    width: 150px;
+    list-style: none;
+    text-decoration: none;
+    margin-top: 65px;
+    margin-bottom: 111px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.win-w {
+    color: black;
+    font-family: "Libre Franklin";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-top: 150px;
+    margin-right: 100px;
+}
+
+.win-div {
+    margin-left: 20px;
+}
+
+.win-p {
+    color: #999;
+    font-family: "Libre Franklin";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.win-p1 {
+    color: #000;
+    font-family: "Tenor Sans";
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;
+}
+
+.win-p2 {
+    color: #000;
+    font-family: "Libre Franklin";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 65px;
+}
+
+.brave {
+    width: 1440px;
+    height: 617px;
+    background: #000;
+    padding-top: 65px;
+}
+
+.brave-div {
+    margin-left: 120px;
+    margin-bottom: 93px;
+    display: flex;
+}
+
+.brave-text {
+    color: #666;
+    font-family: "Libre Franklin";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-left: 15px;
+    width: 275px;
+}
+
+.brave-hr {
+    background: #4D4D4D;
+    width: 2000px;
+    height: 1px;
+    margin-top: 120px;
+    margin-left: -430px;
+    margin-bottom: 60px;
+}
+
+.brave2 {
+    display: flex;
+    margin-top: 180px;
+    /* margin-left: 1200px; */
+}
+
+.brave3 {
+    color: #666;
+    font-family: "Libre Franklin";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-left: -1120px;
+}
+
+.brave4 {
+    color: #666;
+    font-family: "Libre Franklin";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-left: 730px;
+}
+
+.sam {
+    padding-top: 20px;
+    margin-left: 135px;
+}
+
+.sam-a {
+    text-decoration: none;
+    color: #FFF;
+    font-family: "Libre Franklin";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.sam-p {
+    padding-top: 20px;
+}
+
+.rr {
+    display: flex;
+}
+
+.ww {
+    display: flex;
+    margin-left: 50px;
+    padding-top: 75px;
+}
+
+.qq {
+    color: #666;
+    font-family: "Libre Franklin";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border: 1px solid #CCC;
+    background: #FFF;
+    height: 1px;
+    padding: 20px 70px;
+}
+
+.ee {
+    color: #FFF;
+    font-family: "Libre Franklin";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-left: 10px;
+    background: #141414;
+    border: 1px solid #141414;
+    padding: 15px 20px;
+    height: 10px;
+}
+
+.xx {
+    display: flex;
+    display: flex;
+}
+
+.zz {
+    margin-left: 135px;
+    padding-top: 56px;
+}
+
+.cc {
+    color: #666;
+    font-family: "Libre Franklin";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.vv {
+    color: #FFF;
+    font-family: "Libre Franklin";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
